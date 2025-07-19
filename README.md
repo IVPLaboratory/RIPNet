@@ -49,7 +49,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```
 @article{2022TIMFang,
     title     = {Infrared Small {UAV} Target Detection Based on Depthwise Separable Residual Dense Network and Multiscale Feature Fusion},
-    author    = {Houzhang Fang; Lan Ding; Liming Wang; Yi Chang; Luxin Yan; Jinhui Han},
+    author    = {Houzhang Fang and Lan Ding and Liming Wang and Yi Chang and Luxin Yan and Jinhui Han},
     journal   = {IEEE Transactions on Instrumentation and Measurement},
     volume    = {71},
     year      = {2022},
@@ -61,7 +61,7 @@ In additoin to the above paper, please also consider citing the following refere
 ```
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
-    author    = {Houzhang Fang; Xiaolin Wang; Zengyang Li; Lu Wang; Qingshan Li; Yi Chang; Luxin Yan},
+    author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
     booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2025},
     pages     = { },
@@ -84,7 +84,7 @@ In additoin to the above paper, please also consider citing the following refere
 }
 @ARTICLE{2024TGRS_SCINet,
     title       = {{SCINet}: Spatial and Contrast Interactive Super-Resolution Assisted Infrared {UAV} Target Detection},
-    author      = {Houzhang Fang; Lan Ding; Xiaolin Wang; Yi Chang; Luxin Yan; Li Liu; Jinrui Fang},
+    author      = {Houzhang Fang and Lan Ding and Xiaolin Wang and Yi Chang and Luxin Yan and Li Liu and Jinrui Fang},
     journal     = {IEEE Transactions on Geoscience and Remote Sensing},
     volume      = {62},
     year        = {2024},
