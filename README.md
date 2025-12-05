@@ -46,7 +46,7 @@ Weight files will be stored in the ./weight folder.
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper:
-```
+```bibtex
 @article{2022TIMFang,
     title     = {Infrared Small {UAV} Target Detection Based on Depthwise Separable Residual Dense Network and Multiscale Feature Fusion},
     author    = {Houzhang Fang and Lan Ding and Liming Wang and Yi Chang and Luxin Yan and Jinhui Han},
@@ -58,7 +58,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```
 
 In additoin to the above paper, please also consider citing the following references. Thank you!
-```
+```bibtex
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
@@ -99,3 +99,4 @@ Copyright &copy; Xidian University.
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
