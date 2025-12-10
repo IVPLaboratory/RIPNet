@@ -1,8 +1,20 @@
-Official repository of our TIM 2022 paper "Infrared Small UAV Target Detection Based on Depthwise Separable Residual Dense Network and Multiscale Feature Fusion".
+<div align="center">
+  
+## Infrared Small UAV Target Detection Based on Depthwise Separable Residual Dense Network and Multiscale Feature Fusion
 
-## Infrared Small UAV Target Detection Based on Depthwise Separable Residual Dense Network and Multiscale Feature Fusion [[PDF](https://ieeexplore.ieee.org/abstract/document/9855493/)], Supplemental Material [[PDF](https://ieeexplore.ieee.org/document/9855493/media#media)] 
+Authors: Houzhang Fang<sup>1</sup>, Lan Ding<sup>1</sup>, Liming Wang<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>, Jinhui Han<sup>3</sup>
+  
+<sup>1</sup>Xidian University, <sup>2</sup>Huazhong University of Science and Technology, <sup>3</sup>Zhoukou Normal University
 
-Houzhang Fang; Lan Ding; Liming Wang; Yi Chang; Luxin Yan; Jinhui Han
+**IEEE Transactions on Instrumentation and Measurement (TIM) 2022**
+
+<h4>
+  <a href="https://ieeexplore.ieee.org/abstract/document/9855493/">[PDF|IEEE]</a>
+  <a href="https://ieeexplore.ieee.org/document/9855493/media#media">[Supplementary Material]</a>
+  <a href="#citation">[BibTex]</a>
+</h4>
+
+</div>
 
 ### Abstract
 
@@ -99,4 +111,5 @@ Copyright &copy; Xidian University.
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
