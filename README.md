@@ -36,16 +36,6 @@ Python>=3.5 and install torch and torchvision adapted with the current CUDA vers
 pip install -r requirements.txt
 ```
 
-## How To Test
-
-·The testing command is like
-
-```shell
-python test.py --weights-file 'weight/epoch_xx.pth' --test_data 'test'
-```
-
-The testing results will be saved in the ./results folder.
-
 ## How To Train
 
 ·The training command is like
@@ -53,8 +43,16 @@ The testing results will be saved in the ./results folder.
 ```shell
 python train.py --lr 1e-4 --epochs 300 --output-dir 'weight' --batch-size 4
 ```
-
 Weight files will be stored in the ./weight folder.
+
+## How To Test
+
+·The testing command is like
+
+```shell
+python test.py --weights-file 'weight/epoch_xx.pth' --test_data 'test'
+```
+The testing results will be saved in the ./results folder.
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper:
@@ -111,5 +109,6 @@ Copyright &copy; Xidian University.
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
 
